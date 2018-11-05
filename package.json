@@ -1,0 +1,24 @@
+{
+  "name": "logger-demo-generator",
+  "version": "1.0.0",
+  "description": "Simple log generator for demo purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSampaio/logger-demo-generator.git"
+  },
+  "author": "Rodrigo Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSampaio/logger-demo-generator/issues"
+  },
+  "homepage": "https://github.com/RodrigoSampaio/logger-demo-generator#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.3.2"
+  }
+}
